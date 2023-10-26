@@ -14,3 +14,6 @@ functionality-provided to user end---->
    2)  Admin can update product charecterstics whenever they will  want
    3)  Admin can delete particular product from the current product list
    4)  Admin can authenticate user by jwt token /login   
+
+
+By Team IT Elites..
