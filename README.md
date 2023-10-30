@@ -5,7 +5,7 @@ functionality-provided to user end-->
 
 1) User can interact with products list along with images prices that are currently present in this website  by listing 
 2) User can search desire product by name,price,catogery,company name
-3) User can add that product in theire cart ,
+3) User can add that product in theire cart
 4) User can buy that product
 5) if user want to buy user have to log in or signup,
 
