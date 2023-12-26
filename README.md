@@ -1,5 +1,5 @@
-# E-commerce_website
-My team and me has developed this project this project functionality,advantages are provide following below----> 
+# ShopBrowsify website
+My team and me has developed this full stack(MERN) project this project functionality,advantages are provide following below----> 
 This full stack website has been developed by using nodjs ,Reactjs and for the database mongodb are used,
 functionality-provided to user end-->
 
