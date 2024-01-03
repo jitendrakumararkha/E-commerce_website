@@ -4,10 +4,8 @@ ShopBrowsify is a full-stack (MERN) e-commerce project developed by Team IT Elit
 
 ## User Functionality
 
-1. Browse Products:
-   - View a list of products with images and prices.
-   -  
-2. - Interact with the product list.
+ 1. Interact with the product list.
+   -  View a list of products with images and prices
    -  <img width="960" alt="product-list" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/4590a440-384f-4b5f-a30b-8e8dd5b1cd7e">
    
 3. Search Products:
