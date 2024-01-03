@@ -6,18 +6,19 @@ ShopBrowsify is a full-stack (MERN) e-commerce project developed by Team IT Elit
 
 1. Browse Products:
    - View a list of products with images and prices.
-
-2. Search Products:
-   - Search for products by name, price, category, and company name.
-
-3. - Interact with the product list.
+   -  
+2. - Interact with the product list.
    -  <img width="960" alt="product-list" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/4590a440-384f-4b5f-a30b-8e8dd5b1cd7e">
-
+   
+3. Search Products:
+   - Search for products by name, price, category, and company name.
+   - <img width="960" alt="Screenshot 2024-01-03 234421" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/6db2ac81-a91b-468b-8136-3895c6f82c1f">
+   
+<img width="960" alt="Screenshot 2024-01-03 234711" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/aecd8776-7f74-4b78-a5c0-1227c2bd4fdb">
 
 4. Add to Cart:
  - Add desired products to the shopping cart.
  - <img width="960" alt="user-cart-item" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/95f758e7-cb60-46c2-b6a6-c18f10c25621">
-
 
 5. Purchase Products:
    - Complete the purchase process after adding products to the cart.
