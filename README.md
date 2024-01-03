@@ -58,7 +58,7 @@ ShopBrowsify is a full-stack (MERN) e-commerce project developed by Team IT Elit
 
 ## Team IT Elites
 
-The ShopBrowsify project was developed by Team IT Elites. Contributors include [jitendra kumar(me),gautam kumar,Aksahy kumar].
+The ShopBrowsify project was developed by Team IT Elites. Contributors include [jitendra kumar(me),gautam kumar].
 
 ---
 
