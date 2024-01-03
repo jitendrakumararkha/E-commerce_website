@@ -49,11 +49,11 @@ ShopBrowsify is a full-stack (MERN) e-commerce project developed by Team IT Elit
 
 ## How to Run the Project
 
-1) open 2 terminal in vs code .
-2) connect mongodb database
-3) run backend in 1 terminal
-4) run front end in 2 terminal
-5) you will experience our UI and can entract with them
+1) Open 2 terminal in vs code .
+2) Connect mongodb database
+3) Run backend in 1 terminal
+4) Run front end in 2 terminal
+5) You will experience our UI and can entract with them
 
 
 ## Team IT Elites
