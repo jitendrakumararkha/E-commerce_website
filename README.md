@@ -12,8 +12,8 @@ ShopBrowsify is a full-stack (MERN) e-commerce project developed by Team IT Elit
    
 3. Search Products:
    - Search for products by name, price, category, and company name.
-   - <img width="960" alt="Screenshot 2024-01-03 234421" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/6db2ac81-a91b-468b-8136-3895c6f82c1f">
-   
+  <img width="960" alt="Screenshot 2024-01-04 000343" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/5586a26c-b3e7-4816-9719-6f0b8d038bef">
+
 <img width="960" alt="Screenshot 2024-01-03 234711" src="https://github.com/jitendrakumararkha/ShopBrowsify-website/assets/101549973/aecd8776-7f74-4b78-a5c0-1227c2bd4fdb">
 
 4. Add to Cart:
